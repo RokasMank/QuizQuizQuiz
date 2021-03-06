@@ -1,0 +1,131 @@
+.homePage{
+   background-color: lightblue;
+   height: 100vh;
+  border-radius: 10px;
+}
+.homeBox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.greeting{
+  width: 100%;
+ font-size: 50px;
+ text-align: center;
+height: 30%;
+padding-top: 50px;
+ 
+}
+.homeContainer{
+  width: 400px;
+  height: 200px;
+  background-color: lightskyblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+
+}
+.homeChild{
+  text-decoration: none;
+  padding: 10px;
+    margin:auto;
+    font-size: 25px;
+   background-color: white;
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav{
+  background-color:lightskyblue;
+  font-size: 25px;
+  text-align: left;
+  height: 70px;
+  padding-top: 20px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.navL{
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+}
+.navL:hover{
+  color: white;
+}
+.homeChild:hover{
+  background-color:lightblue; 
+  color: white;
+}
+.quizPage{
+  height: 100vh;
+  background-color:lightblue;
+  
+  border-radius: 10px;
+}
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.header{
+  text-align: center;
+  padding-top: 20px;
+}
+.quizCard{
+  width: 500px;
+  border-radius: 10px;
+  background-color:lightskyblue;
+  padding: 10px;
+}
+.score{
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
+.start{
+  margin:auto;
+  display:block;
+}
+.quizCardButton{
+  background-color: white;
+  padding: 10px;
+  margin:2px;
+  border-radius: 5px;
+}
+.correctAnswer{
+  padding: 10px;
+  margin:2px;
+  border-radius: 5px;
+  background-color: greenyellow;
+}
+.incorrectAnswer{
+  padding: 10px;
+  margin:2px;
+  border-radius: 5px;
+  background-color: red;
+}
+button {
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color:lightblue; 
+  color: white;
+}
+.prizePage{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sikeImage{
+
+  
+}

@@ -1,0 +1,84 @@
+{
+    "questions":[
+        {
+    "category": "personal",
+    "correct_answer": "Nikas",
+    "difficulty":"easy",
+    "incorrect_answers":["Niggas", "Nokia", "Lakis"],
+    "question":"Dogs name?",
+    "type":"string"
+},
+{
+    "category": "personal",
+    "correct_answer": "Rokas",
+    "difficulty":"easy",
+    "incorrect_answers":["Klokas", "Tomas", "Lakis"],
+    "question":"My name?",
+    "type":"string"
+},
+{
+    "category": "personal",
+    "correct_answer": "Mamyte",
+    "difficulty":"easy",
+    "incorrect_answers":["Sigra", "Padaveja", "Mama"],
+    "question":"Moms name?",
+    "type":"string"
+},
+{
+    "category": "personal",
+    "correct_answer": "Vegetables",
+    "difficulty":"easy",
+    "incorrect_answers":["Fruits", "Sweets", "Italian"],
+    "question":"Favorite food?",
+    "type":"string"
+},
+{
+    "category": "personal",
+    "correct_answer": "Creeping",
+    "difficulty":"easy",
+    "incorrect_answers":["Jerking", "Fapping", "Sleeping"],
+    "question":"Hobbies?",
+    "type":"string"
+},
+{
+    "category": "personal",
+    "correct_answer": "2001",
+    "difficulty":"easy",
+    "incorrect_answers":["2000", "1999", "2002"],
+    "question":"Year of birth?",
+    "type":"string"
+},
+{
+    "category": "personal",
+    "correct_answer": "September",
+    "difficulty":"easy",
+    "incorrect_answers":["August", "June", "March"],
+    "question":"Month of birth?",
+    "type":"string"
+},
+{
+    "category": "personal",
+    "correct_answer": "Homer Simpson",
+    "difficulty":"easy",
+    "incorrect_answers":["Beetle Juice", "Goggins", "Zucc"],
+    "question":"Favorite person?",
+    "type":"string"
+},
+{
+    "category": "personal",
+    "correct_answer": "19",
+    "difficulty":"easy",
+    "incorrect_answers":["20", "21", "22"],
+    "question":"Age",
+    "type":"string"
+},
+{
+    "category": "personal",
+    "correct_answer": "Water",
+    "difficulty":"easy",
+    "incorrect_answers":["Lithuanika", "Coffee", "Tea"],
+    "question":"Favorite drink",
+    "type":"string"
+}
+]
+}
